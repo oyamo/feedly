@@ -12,7 +12,6 @@ This will download the library and install it in your $GOPATH. You can then impo
 ```go
 import "github.com/oyamo/feedly"
 ```
-You may need to replace your-username with your actual GitHub username in the import path.
 
 Alternatively, you can clone the repository and install the library manually:
 ```bash
