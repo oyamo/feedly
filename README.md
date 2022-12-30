@@ -1,3 +1,4 @@
+![TEST COVERAGE](https://img.shields.io/badge/TEST%20COVERAGE-100%25-green?labelColor=GREEN&style=flat)
 # Feedly: RSS Parser
 This is a Go library for parsing RSS feeds. It includes functions for making HTTP requests to retrieve the feed, unmarshalling the response into structs, and handling errors. It also includes functions for parsing multiple feeds concurrently and specifying different error handling strategies. The library is designed to be easy to use and highly customizable.
 
