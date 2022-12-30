@@ -10,7 +10,7 @@ To install this Go library, you will need to have Go installed on your system. Y
 This will download the library and install it in your $GOPATH. You can then import the library into your Go code using the following import path:
 
 ```go
-import "github.com/your-username/feedly"
+import "github.com/oyamo/feedly"
 ```
 You may need to replace your-username with your actual GitHub username in the import path.
 
